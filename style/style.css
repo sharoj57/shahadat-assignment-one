@@ -454,3 +454,38 @@ opacity: 0.7;
 
 
   }
+
+
+
+  /* juhfd */
+  .foot{
+    display: flex;
+    background-size: cover;
+    justify-content: center;
+    justify-content: space-around;
+    width: 2000px;
+height: 100px;
+left: 0;
+
+
+
+padding: 50px 150px 50px 150px;
+border-radius: 16px;
+
+background: rgba(13, 19, 33, 0.03);
+}
+.icon ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* margin-left: 100%; */
+}
+.title-last{
+    /* margin-right: ; */
+    justify-content: center;
+    align-items: center;
+}
+.icon ul li{
+    list-style: none;
+    margin-left: 50px;
+}
