@@ -271,7 +271,7 @@ letter-spacing: 0%;
 text-align: center;
 
   }
-  .mcttext p{
+  .mcttext{
     color: rgb(13, 19, 33);
 font-family: Azeret Mono;
 font-size: 16px;
@@ -367,3 +367,90 @@ text-align: left;
     width: 70%;
     margin: 0 auto;
 }
+
+.mcttext2 p{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+margin-top: 20px;}
+
+
+
+
+    
+
+
+/* Last Part */
+
+  .lastpart input {
+    width: 548px;
+height: 57px;
+    box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.15);
+border-radius: 8px;
+background: rgb(255, 255, 255);
+padding: 20px;
+color: rgba(13, 19, 33, 0.4);
+
+font-size: 20px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0%;
+
+  }
+  #subscribe-btn {
+    width: 100px;
+    height: 40px;
+    border: 1px solid black;
+    border-radius: 8px;
+
+background: rgb(255, 255, 255);
+
+  }
+  .lastcontent{
+    margin-top: 50px;
+    /* border: 3px solid coral;  */
+   background: rgba(229, 84, 115, 0.1); 
+   width: 1040px;
+   border-radius: 16px;
+background: rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2);
+
+   
+height: 324px;
+   display: flex;
+   flex-direction: column; 
+   justify-content: center;
+   align-items: center;
+   background-image: url('../assets/handshake.jpg');
+   background-position: center;
+   
+   ;
+  }
+  .lastcontent h1{
+    color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: center;
+margin: 16px 0px;
+
+  }
+  .lastcontent p{
+    color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+margin: 10px 0px;
+opacity: 0.7;
+
+
+  }
