@@ -81,7 +81,7 @@ text-align: center;
 margin-top: 10px;
 }
 
-.herobgbtn{
+.herobgbtn {
     border-radius: 8px;
 
 background: rgb(13, 19, 33);
@@ -96,9 +96,13 @@ line-height: 23px;
 letter-spacing: 0%;
 text-align: center;
 margin: 32px 0px;
-padding: 15px 20px 15px 20px;
+padding: 20px 20px 20px 20px;
+text-decoration: none;
 
 }
+
+
+
 
 /* Why Web Development?? */
 
@@ -234,7 +238,7 @@ font-size: 32px;
 font-weight: 800;
 line-height: 37px;
 letter-spacing: 0%;
-margin-top: 1200px;
+margin-top: 960px;
    }
    .institle p{
     color: rgb(13, 19, 33);
@@ -489,3 +493,8 @@ background: rgba(13, 19, 33, 0.03);
     list-style: none;
     margin-left: 50px;
 }
+
+
+
+
+
